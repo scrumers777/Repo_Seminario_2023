@@ -1,3 +1,5 @@
+console.writeline("Operacion de Sumatoria: ");
+
 int a = 4 ;
 
 int b = 8;
